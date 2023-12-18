@@ -10,7 +10,7 @@
 |Dense |CNN|
 ![image](https://github.com/alzkdpf999/javaproject/assets/100851583/c88aa69c-e20d-477c-bb75-2f745bac080a) | ![image](https://github.com/alzkdpf999/javaproject/assets/100851583/93c1112a-de81-437b-8bc6-a333fbafcbb0)
 |SVM|
-![image](https://github.com/alzkdpf999/javaproject/assets/100851583/93c1112a-de81-437b-8bc6-a333fbafcbb0)|
+![image](https://github.com/songhunhwa/songhunhwa.github.com/assets/100851583/9e684c91-6f48-4453-8fe6-1cafdfb785af)|
 ### 결과
 가장 성능이 좋았던 XGBoost-RandomizedSearchCV를 사용한 머신러닝을 선택했고 해당 머신러닝에서의 특성 중요도
 ![image](https://github.com/songhunhwa/songhunhwa.github.com/assets/100851583/9e684c91-6f48-4453-8fe6-1cafdfb785af)
