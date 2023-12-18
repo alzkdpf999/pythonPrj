@@ -13,7 +13,7 @@
 ![image](https://github.com/songhunhwa/songhunhwa.github.com/assets/100851583/9e684c91-6f48-4453-8fe6-1cafdfb785af)|
 ### 결과
 가장 성능이 좋았던 XGBoost-RandomizedSearchCV를 사용한 머신러닝을 선택했고 해당 머신러닝에서의 특성 중요도
-![image](https://github.com/songhunhwa/songhunhwa.github.com/assets/100851583/9e684c91-6f48-4453-8fe6-1cafdfb785af)
+![image](https://github.com/alzkdpf999/pythonPrj/assets/100851583/640377e7-b42c-495d-a3ae-2fe610e58303)
 
 ### 시각화
 |발생과 예측 비교 |발생예측 지도시각화|
